@@ -1,0 +1,2 @@
+           Name          Score     Ships Area     Board Area
+        Eduardo           0.08              2            100

@@ -1,0 +1,17 @@
+Name: The Battleship Game.
+Description: A Battleship Game in CPP.
+Created by: Andreia Rodrigues, Eduardo Leite.
+Date: 2015-05-25.
+
+Comentários:
+- Todos os objectivos foram cumpridos;
+- O jogo contem um modo de debug incluido na classe Game Manager;
+- Conseguimos abranger um boa parte da matéria incluindo templates, overload de operadores, friend classes e functions etc;
+- A matéria que não utilizamos no trabalho foi estudada, mas não foi integrada no trabalho por análise de pros e contras com os métodos utilizados;
+- Todo o código foi compreendido e elaborado em conjunto.
+
+Especificações:
+- Um barco (como indicado no enunciado) considera-se destruído quando pelo menos metade das suas partes está destruída;
+- Quando um barco é destruído é completamente removido do tabuleiro (mas não da lista de navios);
+- Alteramos a maioria das classes e adicionamos dois "Managers" para facilitar a lógica;
+- O tempo vem em segundos.

@@ -1,0 +1,12 @@
+12 x 12
+P 5 Je H 12
+F 4 Df H 13
+C 3 Hb H 10
+C 3 Ia H 10
+S 2 Ad H 14
+S 2 Ga H 14
+S 2 Fh V 14
+L 1 Fe H 11
+L 1 Cc H 11
+L 1 Ci V 11
+L 1 Af V 11
